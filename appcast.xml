@@ -4,18 +4,18 @@
         <title>Mises à jour de Dodge Gap</title>
         <description>Les dernières mises à jour pour l'application Dodge Gap.</description>
         <item>
-            <title>Dodge Gap 1.0.0 (Build 2)</title>
-            <sparkle:version>2</sparkle:version>
+            <title>Dodge Gap 1.0.0 (Build 3)</title>
+            <sparkle:version>3</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-            <pubDate>Thu, 30 Jul 2026 23:48:58 +0000</pubDate>
-            <sparkle:releaseNotesLink>https://github.com/cr0r1/dodge-gap-releases/releases/tag/v1.0.0-2</sparkle:releaseNotesLink>
+            <pubDate>Thu, 30 Jul 2026 23:58:15 +0000</pubDate>
+            <sparkle:releaseNotesLink>https://github.com/cr0r1/dodge-gap-releases/releases/tag/v1.0.0-3</sparkle:releaseNotesLink>
             
-            <enclosure url="https://github.com/cr0r1/dodge-gap-releases/releases/download/v1.0.0-2/dodge_gap.zip"
-                       sparkle:version="2"
+            <enclosure url="https://github.com/cr0r1/dodge-gap-releases/releases/download/v1.0.0-3/dodge_gap.zip"
+                       sparkle:version="3"
                        sparkle:shortVersionString="1.0.0"
-                       length="33649224"
+                       length="33649204"
                        type="application/octet-stream"
-                       sparkle:edSignature="Bn9ljD08bUUrRhWGFv8F5yQF83AfAhMnSrlKUCeKLbvDVrX91Gn/Mcl2bLx6bS948tSdlJUhzXfzoaMbArKtCg==" />
+                       sparkle:edSignature="hTb0720vjEAHXUD7yggxOk2YcO1LG3uUBLgHwQ/ADBlDKSA5++7lzoCgqZ9NR0wpCQElhBpAkjscShu3u730Dw==" />
         </item>
     </channel>
 </rss>
